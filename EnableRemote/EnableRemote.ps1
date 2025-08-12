@@ -2,7 +2,7 @@
 
 Write-Host "========================================================" -ForegroundColor Cyan
 Write-Host " AUTO REMOTE SHUTDOWN ENABLER - Windows 10/11" -ForegroundColor Yellow
-Write-Host " by DeepSeek-R1" -ForegroundColor Cyan
+Write-Host " by WHO-AM-I" -ForegroundColor Cyan
 Write-Host "========================================================" -ForegroundColor Cyan
 
 # Langkah 1: Aktifkan File & Printer Sharing dan Network Discovery
